@@ -1,11 +1,19 @@
 {
   "name": "webdev",
   "version": "1.0.0",
-  "description": "This is  atest proj",
+  "description": "This is a test ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tapadyuti1991/Test.git"
+  },
   "author": "Tapadyuti Maiti",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tapadyuti1991/Test/issues"
+  },
+  "homepage": "https://github.com/Tapadyuti1991/Test#readme"
 }
